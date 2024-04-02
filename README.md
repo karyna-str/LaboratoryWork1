@@ -29,5 +29,7 @@
 - впорядкування порядку слідування файлів за убуванням їх розміру."
 
 <img width="339" alt="image" src="https://github.com/OS-IS/ai233-strukova/assets/163673701/4a8a081f-af29-4dbd-b1e0-d434c4be1f85">
+<img width="454" alt="image" src="https://github.com/karyna-str/LaboratoryWork1/assets/163673701/3bb5c70a-8f8a-4965-a25d-534e8b80f2be">
+
 
  Рис. 13 - фрагмент екрану з ріш
